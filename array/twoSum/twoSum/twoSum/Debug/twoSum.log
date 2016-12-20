@@ -1,0 +1,6 @@
+﻿  main.cpp
+h:\c++\leetcode_self\array\twosum\twosum\twosum\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\twosum\twosum\twosum\main.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\twosum\twosum\twosum\main.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+  twoSum.vcxproj -> H:\c++\leetcode_self\array\twoSum\twoSum\Debug\twoSum.exe
+  twoSum.vcxproj -> H:\c++\leetcode_self\array\twoSum\twoSum\Debug\twoSum.pdb (Full PDB)
