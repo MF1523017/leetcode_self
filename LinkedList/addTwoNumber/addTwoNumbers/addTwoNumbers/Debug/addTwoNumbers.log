@@ -1,0 +1,6 @@
+﻿  main.cpp
+h:\c++\leetcode_self\linkedlist\addtwonumber\addtwonumbers\addtwonumbers\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+  list.cpp
+  正在生成代码...
+  addTwoNumbers.vcxproj -> H:\c++\leetcode_self\LinkedList\addTwoNumber\addTwoNumbers\Debug\addTwoNumbers.exe
+  addTwoNumbers.vcxproj -> H:\c++\leetcode_self\LinkedList\addTwoNumber\addTwoNumbers\Debug\addTwoNumbers.pdb (Full PDB)
