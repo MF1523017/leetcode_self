@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\c++\leetcode_self\string\longestsubstringwithoutrepeatingchars\longestsubstring\longestsubstring\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\string\longestsubstringwithoutrepeatingchars\longestsubstring\longestsubstring\main.cpp(29): warning C4018: “>”: 有符号/无符号不匹配
+  longestSubstring.vcxproj -> H:\c++\leetcode_self\string\longestSubstringWithoutRepeatingChars\longestSubstring\Debug\longestSubstring.exe
+  longestSubstring.vcxproj -> H:\c++\leetcode_self\string\longestSubstringWithoutRepeatingChars\longestSubstring\Debug\longestSubstring.pdb (Full PDB)
