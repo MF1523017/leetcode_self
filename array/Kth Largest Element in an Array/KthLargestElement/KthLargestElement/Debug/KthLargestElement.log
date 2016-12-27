@@ -1,4 +1,5 @@
 ﻿  main.cpp
-h:\c++\leetcode_self\array\kth largest element in an array\kthlargestelement\kthlargestelement\main.cpp(14): warning C4018: “>”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\kth largest element in an array\kthlargestelement\kthlargestelement\main.cpp(23): warning C4018: “>”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\kth largest element in an array\kthlargestelement\kthlargestelement\main.cpp(33): warning C4018: “>”: 有符号/无符号不匹配
   KthLargestElement.vcxproj -> H:\c++\leetcode_self\array\Kth Largest Element in an Array\KthLargestElement\Debug\KthLargestElement.exe
   KthLargestElement.vcxproj -> H:\c++\leetcode_self\array\Kth Largest Element in an Array\KthLargestElement\Debug\KthLargestElement.pdb (Full PDB)
