@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\c++\leetcode_self\dynamicprogramming\wordbreak\wordbreak\wordbreak\main.cpp(28): warning C4018: “<=”: 有符号/无符号不匹配
+  wordBreak.vcxproj -> H:\c++\leetcode_self\dynamicProgramming\wordBreak\wordBreak\Debug\wordBreak.exe
+  wordBreak.vcxproj -> H:\c++\leetcode_self\dynamicProgramming\wordBreak\wordBreak\Debug\wordBreak.pdb (Full PDB)

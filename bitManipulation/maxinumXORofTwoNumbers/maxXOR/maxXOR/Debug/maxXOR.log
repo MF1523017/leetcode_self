@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\c++\leetcode_self\bitmanipulation\maxinumxoroftwonumbers\maxxor\maxxor\main.cpp(192): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+h:\c++\leetcode_self\bitmanipulation\maxinumxoroftwonumbers\maxxor\maxxor\main.cpp(243): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  maxXOR.vcxproj -> H:\c++\leetcode_self\bitManipulation\maxinumXORofTwoNumbers\maxXOR\Debug\maxXOR.exe
+  maxXOR.vcxproj -> H:\c++\leetcode_self\bitManipulation\maxinumXORofTwoNumbers\maxXOR\Debug\maxXOR.pdb (Full PDB)

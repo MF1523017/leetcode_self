@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\c++\leetcode_self\greedy\jumpgame\jumpgame\jumpgame\main.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  jumpGame.vcxproj -> H:\c++\leetcode_self\greedy\jumpGame\jumpGame\Debug\jumpGame.exe
+  jumpGame.vcxproj -> H:\c++\leetcode_self\greedy\jumpGame\jumpGame\Debug\jumpGame.pdb (Full PDB)

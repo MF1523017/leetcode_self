@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\c++\leetcode_self\string\simplify_path\simplifypath\simplifypath\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  simplifyPath.vcxproj -> H:\c++\leetcode_self\string\simplify_path\simplifyPath\Debug\simplifyPath.exe
+  simplifyPath.vcxproj -> H:\c++\leetcode_self\string\simplify_path\simplifyPath\Debug\simplifyPath.pdb (Full PDB)
