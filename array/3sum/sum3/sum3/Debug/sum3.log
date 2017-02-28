@@ -1,0 +1,5 @@
+﻿  sum3.cpp
+h:\c++\leetcode_self\array\3sum\sum3\sum3\sum3.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\3sum\sum3\sum3\sum3.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+  sum3.vcxproj -> H:\c++\leetcode_self\array\3sum\sum3\Debug\sum3.exe
+  sum3.vcxproj -> H:\c++\leetcode_self\array\3sum\sum3\Debug\sum3.pdb (Full PDB)

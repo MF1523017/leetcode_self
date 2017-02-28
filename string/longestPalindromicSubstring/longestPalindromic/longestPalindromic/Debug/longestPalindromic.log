@@ -1,0 +1,8 @@
+﻿  longestPalindromic.cpp
+h:\c++\leetcode_self\string\longestpalindromicsubstring\longestpalindromic\longestpalindromic\longestpalindromic.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\string\longestpalindromicsubstring\longestpalindromic\longestpalindromic\longestpalindromic.cpp(32): warning C4018: “<=”: 有符号/无符号不匹配
+h:\c++\leetcode_self\string\longestpalindromicsubstring\longestpalindromic\longestpalindromic\longestpalindromic.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\string\longestpalindromicsubstring\longestpalindromic\longestpalindromic\longestpalindromic.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\string\longestpalindromicsubstring\longestpalindromic\longestpalindromic\longestpalindromic.cpp(54): warning C4018: “<=”: 有符号/无符号不匹配
+  longestPalindromic.vcxproj -> H:\c++\leetcode_self\string\longestPalindromicSubstring\longestPalindromic\Debug\longestPalindromic.exe
+  longestPalindromic.vcxproj -> H:\c++\leetcode_self\string\longestPalindromicSubstring\longestPalindromic\Debug\longestPalindromic.pdb (Full PDB)

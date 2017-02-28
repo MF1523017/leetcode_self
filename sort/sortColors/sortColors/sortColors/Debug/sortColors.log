@@ -1,0 +1,4 @@
+﻿  sortColors.cpp
+h:\c++\leetcode_self\sort\sortcolors\sortcolors\sortcolors\sortcolors.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  sortColors.vcxproj -> H:\c++\leetcode_self\sort\sortColors\sortColors\Debug\sortColors.exe
+  sortColors.vcxproj -> H:\c++\leetcode_self\sort\sortColors\sortColors\Debug\sortColors.pdb (Full PDB)

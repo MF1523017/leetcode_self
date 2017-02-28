@@ -1,0 +1,4 @@
+﻿  ValidParentheses.cpp
+h:\c++\leetcode_self\string\validparentheses\validparentheses\validparentheses\validparentheses.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  ValidParentheses.vcxproj -> H:\c++\leetcode_self\string\ValidParentheses\ValidParentheses\Debug\ValidParentheses.exe
+  ValidParentheses.vcxproj -> H:\c++\leetcode_self\string\ValidParentheses\ValidParentheses\Debug\ValidParentheses.pdb (Full PDB)

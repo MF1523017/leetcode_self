@@ -1,0 +1,5 @@
+﻿  Merge_Intervals.cpp
+h:\c++\leetcode_self\array\mergeintervals\merge_intervals\merge_intervals\merge_intervals.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+h:\c++\leetcode_self\array\mergeintervals\merge_intervals\merge_intervals\merge_intervals.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+  Merge_Intervals.vcxproj -> H:\c++\leetcode_self\array\MergeIntervals\Merge_Intervals\Debug\Merge_Intervals.exe
+  Merge_Intervals.vcxproj -> H:\c++\leetcode_self\array\MergeIntervals\Merge_Intervals\Debug\Merge_Intervals.pdb (Full PDB)
