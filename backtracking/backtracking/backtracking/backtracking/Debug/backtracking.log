@@ -1,0 +1,13 @@
+﻿  backtracking.cpp
+  
+  class Base	size(12):
+  	+---
+   0	| c
+   1	| ch
+    	| <alignment member> (size=2)
+   4	| x
+   8	| b
+    	| <alignment member> (size=3)
+  	+---
+  backtracking.vcxproj -> H:\c++\leetcode_self\backtracking\backtracking\backtracking\Debug\backtracking.exe
+  backtracking.vcxproj -> H:\c++\leetcode_self\backtracking\backtracking\backtracking\Debug\backtracking.pdb (Full PDB)
